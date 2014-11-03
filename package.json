@@ -1,27 +1,21 @@
 {
-  "name": "hexo-migrator-rss",
-  "version": "0.1.2",
-  "description": "RSS migrator plugin for Hexo",
+  "name": "hexo-migrator-ghost",
+  "version": "0.1.0",
+  "description": "Ghost migrator plugin for Hexo",
   "main": "index",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hexojs/hexo-migrator-rss.git"
-  },
-  "bugs": {
-    "url": "https://github.com/hexojs/hexo-migrator-rss/issues"
+    "url": "https://github.com/seoh/hexo-migrator-ghost.git"
   },
   "keywords": [
     "hexo",
     "rss",
     "feed",
     "atom",
-    "migrator"
+    "migrator",
+    "ghost"
   ],
-  "author": "Tommy Chen <tommy351@gmail.com> (http://zespia.tw)",
-  "license": {
-    "type": "MIT",
-    "url": "https://raw.github.com/hexojs/hexo-migrator-rss/master/LICENSE"
-  },
+  "author": "Seoh Char <devthewild@gmail.com>",
   "dependencies": {
     "async": "^0.9.0",
     "to-markdown": "0.0.1",
